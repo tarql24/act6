@@ -1,0 +1,72 @@
+<style>
+
+body {
+    background-color: brown;
+}
+
+h1 {
+    color: rgb(14, 0, 214);
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+p, li {
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.fab {
+    font-weight: bold;
+    color: orangered;
+    font-size: 30px;
+}
+
+.coolfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.small {
+    font-size: 12px;
+    font-family: helvetica;
+}
+
+.big {
+    font-size: 48px;
+    font-family: times;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.styledFont {
+    color: rgb(0, 154, 165);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    padding:18px;
+    border:1px solid #85007a;
+    background-color:rgb(225, 0, 255);
+}
+
+.all {
+    color: blue;
+}
+
+</style>
